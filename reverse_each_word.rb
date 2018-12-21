@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-return string.to_ary
+return string.char.to_a
 end
