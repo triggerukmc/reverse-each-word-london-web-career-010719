@@ -1,4 +1,3 @@
 def reverse_each_word(string)
-  y = string
-   return y.to_a
+return string.to_ary
 end
